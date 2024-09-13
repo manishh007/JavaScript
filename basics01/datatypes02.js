@@ -33,9 +33,58 @@ let booleanIsloggedIn = Boolean(isLoggedIn)
 
 let someNumber = 12
 let numberToString = String(someNumber)
-console.log(numberToString);
+//console.log(numberToString);
 
-console.log(typeof numberToString);
+//console.log(typeof numberToString);
 
-console.log(typeof someNumber);
+//console.log(typeof someNumber);
+
+
+//********Operations on datatypes********
+
+
+let value = 23
+
+let negValue =-value
+/*console.log("value kya hai")
+console.log(value);
+console.log(negValue);*/
+
+
+/*console.log(2+2);
+console.log(5-2);
+console.log(2*3);
+console.log(15/3);
+console.log(11%7);
+console.log(2**3);*/ 
+
+/*console.log("1" + 2);
+console.log(1 + "2");
+console.log("1"+2+3);
+console.log(1+2+"3");
+console.log("1+2");
+console.log("1+2" + 3);
+console.log("1+2" * 3);*/
+
+/*console.log(true +2);
+console.log(5 + true );*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
