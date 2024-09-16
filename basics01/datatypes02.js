@@ -72,6 +72,34 @@ console.log(5 + true );*/
 
 
 
+//*************comparison operator************
+
+/* console.log("2" > 1);
+console.log("02" < 1); */
+
+/* console.log(null >= 0);
+console.log(undefined >= 0); */  //comparison like < > <= >= converts the null into 0 then compare
+
+/* console.log("2" === 2);
+console.log(true === false);
+console.log(4 === 5);
+console.log(2===2);
+console.log("2" === "2");
+console.log("2" === "4"); */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
